@@ -1,0 +1,15 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "jest testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Andrei Trunkin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
